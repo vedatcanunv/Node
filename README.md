@@ -3,5 +3,5 @@
 ### Console Çıktısı
 
 <figure>
-    <img src="./consoleLog.png" width="600" height="600">
+    <img src="./consoleLog.png" width="800" height="600">
 </figure>
